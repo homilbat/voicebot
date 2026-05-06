@@ -1,0 +1,6 @@
+streamlit==1.57.0
+streamlit-audiorecorder==0.0.6
+openai==2.34.0
+gTTS==2.5.4
+pydub==0.25.1
+requests==2.33.1
